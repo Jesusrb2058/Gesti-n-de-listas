@@ -4,7 +4,7 @@ Este proyecto en Java permite gestionar agendas y expertos mediante una interfaz
 
 ## Diagrama UML
 
-<img src="Gestión de listas/Img/Diagrama UML.jpg" alt="Vista del juego" width="80">
+<img src="Gestión de listas/Img/Diagrama UML.jpg" alt="Vista del juego" width="800">
 
 
 ## Características
